@@ -17,7 +17,7 @@ public class legendOfBill implements ApplicationListener {
 	private Sprite sprite;
 
 	/**
-	 * Creates the greatest game ever.
+	 * Creates the super greatest game ever.
 	 */
 	@Override
 	public void create() {
